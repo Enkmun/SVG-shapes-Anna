@@ -43,3 +43,6 @@ At your discretion, you may rename the "logo.svg" file to the file name of your 
 
 (Optional) The SVG Logo Maker serves as a foundation so you are not limited to altering the files (as you have my permission) to create the best possible "logo.svg" file.
 ```
+
+https://github.com/Enkmun/SVG-shapes-Anna/assets/147563607/6c360e1c-2d29-4fd8-b248-77eb8247d5c7
+
